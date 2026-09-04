@@ -1,0 +1,1 @@
+"""Headless autonomous training arena."""
