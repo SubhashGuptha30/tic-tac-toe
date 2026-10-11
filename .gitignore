@@ -26,3 +26,6 @@ Thumbs.db
 # Build artifacts
 frontend/tsconfig.app.tsbuildinfo
 frontend/tsconfig.node.tsbuildinfo
+
+# DB backups
+*_backup.db
